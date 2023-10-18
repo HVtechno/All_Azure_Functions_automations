@@ -1,0 +1,20 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+pandas
+pyodbc
+fast_to_sql
+azure-storage-blob
+Office365-REST-Python-Client
+python-dotenv
+openpyxl
+databricks-sql-connector
+sqlparse
+delta-sharing
+redis
+requests
+msal
+pyxlsb
+data

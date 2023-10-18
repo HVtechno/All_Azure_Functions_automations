@@ -1,0 +1,1 @@
+# All_Azure_Functions_automations
